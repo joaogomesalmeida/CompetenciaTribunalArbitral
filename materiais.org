@@ -1,0 +1,27 @@
+#+TITLE: A competência do tribunal arbitral: indicações bibligráficas e jurisprudenciais
+#+AUTHOR: João Gomes de Almeida
+#+LANGUAGE: pt
+#+OPTIONS: date:nil toc:nil num:nil
+#+LATEX_CLASS: koma-article
+#+LATEX_COMPILER: xelatex
+
+* Indicações bibliográficas
+
+As indicações bibliográficas que se seguem não têm qualquer pretensão de exaustividade e visam apenas constituir um ponto de partida para quem pretenda aprofundar o estudo do tema da competência do tribunal arbitral. Deste modo privilegiou-se, em regra, as publicações mais recentes e ou que sejam mais facilmente acessíveis pelos participantes do Curso de Pós-Graduação. Agrupa-se a bibliografia em nacional e estrangeira e ordena-se a mesma pela data de publicação e ordem alfabética do apelido do (primeiro) autor.
+
+** Nacional
+
+- Oliveira, Elsa Dias. /Arbitragem Voluntária: Uma Introdução/. Coimbra: Almedina, 2020, pp. 73-84.
+- Pires, Catarina Monteiro, e Rui Pereira Dias, eds. /Manual de Arbitragem Internacional Lusófona/. Vol. I. Coimbra: Almedina, 2020, pp. 73-79.
+- Monteiro, António Pedro Pinto, Artur Flamínio da Silva, e Daniela Mirante. /Manual de arbitragem/. Coimbra: Almedina, 2019, pp. 187-191.
+- Vicente, Dário Moura, André Navarro de Noronha, Armindo Ribeiro Mendes, José Miguel Júdice, José Robin de Andrade, Miguel de Almada, Nuno Ferreira Lousa, /et al/. /Lei da arbitragem voluntária: anotada/. 4.ª ed. Coimbra: Almedina, 2019, pp. 87-93.
+- Cordeiro, António Manuel da Rocha e Menezes. /Tratado da arbitragem - Comentário à Lei 63/2011, de 14 de dezembro/. Coimbra: Almedina, 2015, pp. 189-213.
+
+** Estrangeira
+
+- Born, Gary. /International Commercial Arbitration/, 3.ª ed. Alphen aan den Rijn: Wolters Kluwer, 2021, pp. 1139-1348 (disponível na Kluwer Arbitration).
+- Binder, Peter. /International commercial arbitration and mediation in UNCITRAL model law jurisdictions, 4.ª ed. Alphen aan den Rijn, The Netherlands: Kluwer Law International B. V, 2019, pp. 251-276 (disponível na Kluwer Arbitration).
+- Holtzmann, Howard M., Joseph E. Neuhaus, Edda Kristjánsdóttir, e Thomas W. Walsh. /A guide to the 2006 amendments to the UNCITRAL model law on international commercial arbitration: legislative history and commentary/. Alphen aan den Rijn, the Netherlands: Wolters Kluwer, Law & Business, 2015, pp. 478-528 (disponível na Kluwer Arbitration).
+- Huber, Peter, e Ivo Bach. /Arbitration in Germany: the model law in practice/, editado por Karl-Heinz Böckstiegel, Stefan Kröll, e Patricia Nacimiento, 2.ª ed. Alphen aan den Rijn, The Netherlands: Kluwer Law International, 2015, pp. 215-225 (disponível na Kluwer Arbitration).
+- Redfern, Alan, Nigel Blackaby, Constatntine Partasides, e Martin Hunter.  /Redfern and Hunter on International Arbitration/, 6.ª ed. Oxford: Oxford University Press, 2015, pp. 305-352 (disponível na Kluwer Arbitration).
+- Lew, Julian D. M., Loukas A. Mistelis, Stefan Kröll, e Stefan M. Kröll.  /Comparative International Commercial Arbitration/. The Hague [u.a]: Kluwer Law International, 2003, pp. 329–354 (disponível na Kluwer Arbitration).
