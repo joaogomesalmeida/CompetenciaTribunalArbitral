@@ -1,13 +1,13 @@
 #+TITLE: A competência do tribunal arbitral: indicações bibligráficas e jurisprudenciais
 #+AUTHOR: João Gomes de Almeida
 #+LANGUAGE: pt
-#+OPTIONS: date:nil toc:nil num:nil
+#+OPTIONS: date:nil toc:nil
 #+LATEX_CLASS: koma-article
 #+LATEX_COMPILER: xelatex
 
-* Indicações bibliográficas
+* Bibliografia
 
-As indicações bibliográficas que se seguem não têm qualquer pretensão de exaustividade e visam apenas constituir um ponto de partida para quem pretenda aprofundar o estudo do tema da competência do tribunal arbitral. Deste modo privilegiou-se, em regra, as publicações mais recentes e ou que sejam mais facilmente acessíveis pelos participantes do Curso de Pós-Graduação. Agrupa-se a bibliografia em nacional e estrangeira e ordena-se a mesma pela data de publicação e ordem alfabética do apelido do (primeiro) autor.
+As indicações bibliográficas que se seguem não têm qualquer pretensão de exaustividade e visam apenas constituir um ponto de partida para quem pretenda aprofundar o estudo do tema da competência do tribunal arbitral. Deste modo privilegiou-se, em regra, as publicações mais recentes e ou que sejam mais facilmente acessíveis pelos participantes do Curso de Pós-Graduação. Agrupa-se a bibliografia em nacional e estrangeira e ordena-se a mesma pela data de publicação e ordem alfabética do apelido do (primeiro) autor. A bibliografia estrangeira encontra-se disponível na base de dados Kluwer Arbitration e pode ser acedida na Biblioteca da FDUL.
 
 ** Nacional
 
@@ -19,9 +19,10 @@ As indicações bibliográficas que se seguem não têm qualquer pretensão de e
 
 ** Estrangeira
 
-- Born, Gary. /International Commercial Arbitration/, 3.ª ed. Alphen aan den Rijn: Wolters Kluwer, 2021, pp. 1139-1348 (disponível na Kluwer Arbitration).
-- Binder, Peter. /International commercial arbitration and mediation in UNCITRAL model law jurisdictions, 4.ª ed. Alphen aan den Rijn, The Netherlands: Kluwer Law International B. V, 2019, pp. 251-276 (disponível na Kluwer Arbitration).
-- Holtzmann, Howard M., Joseph E. Neuhaus, Edda Kristjánsdóttir, e Thomas W. Walsh. /A guide to the 2006 amendments to the UNCITRAL model law on international commercial arbitration: legislative history and commentary/. Alphen aan den Rijn, the Netherlands: Wolters Kluwer, Law & Business, 2015, pp. 478-528 (disponível na Kluwer Arbitration).
-- Huber, Peter, e Ivo Bach. /Arbitration in Germany: the model law in practice/, editado por Karl-Heinz Böckstiegel, Stefan Kröll, e Patricia Nacimiento, 2.ª ed. Alphen aan den Rijn, The Netherlands: Kluwer Law International, 2015, pp. 215-225 (disponível na Kluwer Arbitration).
+- Born, Gary. /International Commercial Arbitration/, 3.ª ed. Alphen aan den Rijn: Wolters Kluwer, 2021, pp. 1139-1348.
+- Binder, Peter. /International commercial arbitration and mediation in UNCITRAL model law jurisdictions/, 4.ª ed. Alphen aan den Rijn, The Netherlands: Kluwer Law International B. V, 2019, pp. 251-276.
+- Holtzmann, Howard M., Joseph E. Neuhaus, Edda Kristjánsdóttir, e Thomas W. Walsh. /A guide to the 2006 amendments to the UNCITRAL model law on international commercial arbitration: legislative history and commentary/. Alphen aan den Rijn, the Netherlands: Wolters Kluwer, Law & Business, 2015, pp. 478-528.
+- Huber, Peter, e Ivo Bach. /Arbitration in Germany: the model law in practice/, editado por Karl-Heinz Böckstiegel, Stefan Kröll, e Patricia Nacimiento, 2.ª ed. Alphen aan den Rijn, The Netherlands: Kluwer Law International, 2015, pp. 215-225.
 - Redfern, Alan, Nigel Blackaby, Constatntine Partasides, e Martin Hunter.  /Redfern and Hunter on International Arbitration/, 6.ª ed. Oxford: Oxford University Press, 2015, pp. 305-352 (disponível na Kluwer Arbitration).
-- Lew, Julian D. M., Loukas A. Mistelis, Stefan Kröll, e Stefan M. Kröll.  /Comparative International Commercial Arbitration/. The Hague [u.a]: Kluwer Law International, 2003, pp. 329–354 (disponível na Kluwer Arbitration).
+- Lew, Julian D. M., Loukas A. Mistelis, Stefan Kröll, e Stefan M. Kröll.  /Comparative International Commercial Arbitration/. The Hague [u.a]: Kluwer Law International, 2003, pp. 329–354.
+- Fouchard, Philippe, Emmanuel Gaillard, e Berthold Goldman. /International Commercial Arbitration/. The Hague: Kluwer Law International, 1999, pp. 213-214 e pp. 395-401.
