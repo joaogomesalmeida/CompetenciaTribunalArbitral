@@ -1,0 +1,14 @@
+#+TITLE: A competência do tribunal arbitral: sumário
+#+AUTHOR: João Gomes de Almeida
+#+LANGUAGE: pt
+#+OPTIONS: date:nil toc:nil
+#+LATEX_CLASS: koma-article
+#+LATEX_COMPILER: xelatex
+
+A. A competência-competência em geral
+   1. A competência-competência em termos gerais
+   2. O efeito positivo e o efeito negativo da competência-competência
+   3. Relação com o efeito positivo e negativo da convenção de arbitragem
+   4. Relação com a regra da autonomia ou separabilidade da convenção de arbitragem
+B. A competência-competência no Direito da Arbitragem português
+   1.
