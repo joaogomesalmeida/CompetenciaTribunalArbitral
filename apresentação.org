@@ -1,1 +1,164 @@
 #+TITLE: Apresentação
+
+* Slide 0
+
+Bom dia a todos.
+
+Hoje cabe-me a mim abordar a matéria da competência do tribunal arbitral. Atendendo ao meu tema e ao temas que se seguem, a Intervenção dos tribunais do estado na arbitragem e, na próxima semana, as providências cautelares e as ordens preliminares, o foco da minha aula recaí sobre o princípio da competência da competência ou /kompetenz-kompetenz/.
+
+Aproveito já a oportunidade para enviar, via chat do zoom, um pequeno ficheiro com indicações bibliográficas e jurisprudênciais. Como refiro no ficheiro, estas indicações não têm pretensões de exaustividade. A ideia é a seguinte: caso fiquem interessados pela matéria, estas indicações parecem-me ser um bom ponto de partida, quer pelo tratamento e abrangência do tema, quer pela facilidade de acesso.
+
+Peço que me interrompam sempre que quiserem.
+
+* Slide 1
+
+Uma nota inicial sobre a estrutura da apresentação. Nesta matéria, podemos adotar uma perspetiva de arbitragem interna ou internacional. Na verdade, como veremos /infra/, o princípio da competência da competência não é entendido nem é consagrado em todas as ordens jurídicas da mesma maneira. Também não me parece possível, no tempo disponível, tratar exaustivamente a matéria segundo as duas perspetivas, internacional e interna.
+
+Por isso optei por iniciar com algumas considerações genéricas sobre o princípio, que visam dar os elementos necessários para compreender o princípio nas suas diversas configurações e qual a sua natureza. Depois avançarei em mais detalhe para o modo como o mesmo se encontra consagrado na LAV portuguesa.
+
+* Slide 2
+
+Em suma o princípio da competência da competência é um princípio que se refere a atribuição e ou distribuição de poder para decidir sobre se um determinado litígio deve estar ou não submetido à jurisdição arbitral.
+
+Em termos simples, pode dizer-se que, primariamente, o princípio da competência da competência da resposta à questão de saber /quem decide/ a questão de saber se determinado litígio deve ou não ser decidido pelo tribunal arbitral.
+
+As respostas possíveis são, em tese, três, a saber:
+1. Apenas o tribunal arbitral tem competência para decidir da sua competência;
+2. Apenas os tribunais judiciais;
+ 3. O tribunal arbitral e os tribunais judiciais.
+
+Quase todas as ordens jurídicas Estaduais consagram, atualmente, o princípio da competência da competência, pelo menos o seu efeito postiivo.
+
+* Slide 3
+
+Verdadeiramente, o efeito positivo da competência da competência consiste na atribuição /ao tribunal arbitral/ da competência para decidir se é ou não competente para dirimir um litígio que lhe seja colocado.
+
+Só temos verdadeiramente uma questãode competência da competência, quando essa atribuição é feita ao tribunal arbitral. Se a competência for atribuída exclusivamente aos tribunais estaduais, a questão é resolvida de um modo que não suscitaria tantas questões, pelo menos do ponto de vista de qual é o fundamento desta competência, visto que se trataria de um controlo externo da competência.
+
+A verdade, porém, é que, para salvaguardar a própria arbitragem, cedo se entendeu que se teria de conceder ao próprio tribunal arbitral esta competência da competência, sob pena de se abrir caminho a táticas dilatórias por parte de quem, tendo-se vinculado à arbitragem, mais tarde não pretende sujeitar-se a ela.
+
+O artigo 18.º, n.º 1, é só um modo de consagrar o efeito positivo, talvez um dos mais comuns, porque segue de perto a formulação da Lei Modelo da Uncitral.
+
+* Slide 4
+
+Há um outro efeito do princípio da competência da competência que é o efeito negativo.
+
+Por efeito negativo, pensa-se, normalmente numa privação de competência dos tribunais judiciais para decidirem sobre esta questão.
+
+Esta privação /não/ tem de ser absoluta. Muitos Estados, incluindo o português, introduzem um privação apenas quanto ao momento em que os tribunais judiciais podem decidir esta questão. Nesse sentido, o efeito negativo é um modo de distribuir esta competência pelos tribunais arbitrais e judiciais.
+
+* Slide 5
+
+No direito comparado encontramos várias consagrações do princípio da competência da competência.
+
+1.ª solução: solução da lei modelo. O tribunal arbitral tem competência para decidir sobre a sua competência. Mas os tribunais estaduais também têm competência e não há qualquer prioridade.
+
+2.ª solução: vigora em França. Se o tribunal arbitral está constituído só ele tem competência para decidir da sua competência (art. 1465.º do CPC francês: “Le tribunal arbitral est seul compétent pour statuer sur les contestations relatives à son pouvoir juridictionnel.” e 1448.º do CPC: “Lorsqu'un litige relevant d'une convention d'arbitrage est porté devant une juridiction de l'Etat, celle-ci se déclare incompétente sauf si le tribunal arbitral n'est pas encore saisi et si la convention d'arbitrage est manifestement nulle ou manifestement inapplicable.”).
+
+3.ª solução: vigora em Portugal, veremos daqui a pouco em mais detalhe.
+
+4.ª vigora na Suíça. Se a arbitragem tem sede na suíça, o tribunal estadual só deve fazer uma análise prima facie e remeter as partes para arbitragem; se a arbitragem for estrangeira a análise deve ser plena, só declinando a jurisdição se concluir pela aplicabilidade da convenção.
+
+5.ª solução vigora nos EUA. O precedente mais relevante é o acórdão First Options of Chicago, Inc. v. Kaplan, no qual o Supremo Tribunal dos EUA concluíu que a natureza e alcance da competência da competência do tribunal arbitral depende, em larga medida, dos termos acordados pelas partes na convenção de arbitragem. Dito de outra forma, as partes podem conceder competência da competência ao tribunal arbitral ou reservar essa matéria para os tribunais estaduais.
+
+* Slide 6
+
+Agora é necessário relacionar o princípio da competência da competência com a regra da autonomia ou separabilidade da convenção de arbitragem, até porque a lei modelo (e, em certa medida, a LAV portuguesa) procuram efetuar uma ligação entre eles.
+
+A regra da autonomia, tal como o princípio
+* Slide 7
+* Slide 8
+
+Muitos autores sustentam que a principal vantagem é de cariz prático, isto é, a principal vantagem do efeito negativo da competência da competência é a de impedir que uma parte possa, de má fé, com a mera apresentação de um pedido perante um Tribunal estadual, obstruir o bom andamento de uma arbitragem baseada em convenção de arbitragem aparentemente válida.
+
+Assinala-se, porém, que o princípio da competência da competência, conjugado com a regra da autonomia, torna muito resiliente o tribunal arbitral a “ataques” à sua competência. Um vício no negócio causal não afetará, em regra, a convenção de arbitragem. O tribunal arbitral será, em regra, o primeiro decisor sobre se têm ou não competência.
+
+
+* Slide 9
+
+O primeiro problema que vos trago é o de saber se o tribunal arbitral se pode declarar incompetente oficiosamente ou se carece sempre de prévia alegação por uma das partes.
+
+As normas que constam do artigo 18.º, em particular os n.ºs 4 e 6, mas também o n.º 5, do artigo 18.º, apontam no sentido de que uma das partes tem de alegar a incompetência para o tribunal se pronunciar.
+
+
+* Slide 10
+
+Parece-me que a melhor resposta é aquela que distingue consoante os fundamentos da incompetência. Sempre que a incompetência se reporte a uma situação de inarbitrabilidade ou a uma violação de princípios fundamentais da ordem pública internacional portuguesa, parece que o tribunal arbitral pode conhecer oficiosamente a sua incompetência. Parece justificar-se aqui um paralelismo com os poderes do tribunal judicial em sede de impugnação da sentença arbitral.
+
+A ideia é acentuada pela alínea a) do n.º 3, que elenca fundamentos de impugnação que carecem de alegação pelas partes e que, nos termos do n.º 4 do artigo 46.º, ficam sanados se não forem alegados no processo arbitral (“4 - Se uma parte, sabendo que não foi respeitada uma das disposições da presente lei que as partes podem derrogar ou uma qualquer condição enunciada na convenção de arbitragem, prosseguir apesar disso a arbitragem sem deduzir oposição de imediato ou, se houver prazo para este efeito, nesse prazo, considera-se que renunciou ao direito de impugnar, com tal fundamento, a sentença arbitral.”)
+
+
+* Slide 11
+
+Pode discutir-se a natureza do prazo previsto no artigo 18.º/4. Parece-me, com a maioria da doutrina, que o prazo é preclusivo, isto é, caduca o direito da parte alegar a incompetência se não o fizer dentro do prazo. Todavia, não afeta as incompetências que se reconduzam a fundamentos da impugnação da inarbitrabilidade ou da violação da ordem pública internacional portuguesa. Nesse caso, o tribunal pode oficiosamente declarar-se incompetente e, se não o fizer, a parte pode impugnar a sentença arbitral com esse fundamento.
+
+No caso da incompetência superveniente estamos perante uma situação que surge ou é conhecida das partes depois de decorrido o prazo para apresentação da defesa. Pense-se na apresentação de um requerimento de uma medida cautelar vedada pela convenção de arbitragem depois da apresentação da defesa. Nestes casos, o artigo 18.º/6 admite a alegação desde que seja “deduzida imediatamente após se suscitar a questão que alegadamente exceda essa competência.” O professor Menezes Cordeiro entende que podemos aqui interpretar este trecho, com maior segurança, no sentido de até à próxima intervenção processual subsequente aquela questão.
+
+Quanto aos motivos justificativos, a doutrina tende a entender que eles são mais abrangentes que os casos de justo impedimento do CPC. Ainda assim parece que se deve interpretar cautelosa e restritivamente esta faculdade.
+
+
+* Slide 12
+
+Esta regra é útil e pode ser considerada uma decorrência do princípio da competência da competência: se o tribunal arbitral tem competência para decidir sobre a sua competência, então não merece censura a parte que participa na sua constituição, ainda que apenas para depois vir alegar a sua incompetência. A isto acresce que temos sempre de ter presente que a alegação da parte pode não obter vencimento. Se tal suceder, e o tribunal arbitral se considerar competente, ambas as partes têm interesse em ter contribuído de forma equivalente para a sua constituição.
+
+Por estes dois motivos, a norma esclarece e torna inequívoco aquilo que sempre resultaria de forma implícita, mas que, sendo implícito, poderia suscitar dúvidas e litigância.
+
+
+* Slide 13
+
+Resulta que o tribunal arbitral pode decidir sobre a sua competência mediante uma decisão interlocutória ou na sentença arbitral. Esta possibilidade advém da lei-modelo da UNCITRAL, embora aí se designe de pronúncia em sede de questão prévia.
+
+A solução de impugnação da decisão interlocutória num prazo curto de 30 dias também advém da Lei-modelo, do seu artigo 16.º, n.º 3. Na elaboração da lei-modelo discutiu-se qual seria a melhor solução para controlo da decisão interlocutória pelos tribunais estaduais: se o controlo ”imediato” se apenas após o proferimento da sentença final.
+
+A favor da realização imediata desse controlo, na sequência de impugnação movida, em prazo curto, perante o Tribunal estadual competente contra a decisão do Tribunal arbitral, argumentou-se inter alia com a conveniência de poupar às partes tempo e dinheiro, evitando a continuação desnecessária do processo arbitral. Contra essa solução, advogou-se, por seu turno, que esse controlo deveria ser remetido para momento posterior à pronúncia de sentença arbitral, a fim de evitar a demora ou a obstrução do processo arbitral, com maus motivos. Conforme resulta do artigo 16.º, n.º 3, da lei modelo a escolha recaíu sobre o controlo imediato.
+
+Ainda assim, em Portugal suscitou-se uma divergência doutrinária sobre a natureza desta impugnação: era ela um ónus, no sentido de que a parte que não impugna dentro do prazo de 30 dias perde o direito de o fazer; ou tinha natureza facultativa, podendo a parte que pretendia impugnar decisão interlocutória de competência optar por impugnar no prazo de 30 dias ou a final.
+
+Quem defende a natureza facultativa, tende a destacar o carácter algo “dúbio” da letra da lei que utiliza a expressão “pode (...) ser impugnada”; alega também que, em face dessa dúvida, se deve adotar a interpretação que mais garanta os direitos das partes. Por outro lado, atendendo a que as partes já se pronunciaram sobre a competência do tribunal arbitral no processo arbitral a invocação da incompetência a final não constituíra uma supresa; acresce que da própria sentença pode resultar a desnecessidade de se impugnar a decisão relativa à competência (porque exemplo, porque o pedido improcedeu).
+
+Quem defende que estamos perante um verdadeiro ónus, refere a inutilidade do prazo de 30 dias, se o incumprimento do mesmo não tiver qualquer consequência: que o verbo poder deve ser interpretado da mesma forma que o artigo 627.º do CPC; que esta posição permite uma maior estabilização da instância arbitral e assinalam também que a remissão que consta no n.º 9 é apenas para as subalíneas i) e iii) da al. a) do n.º 3 do artigo 46.º, o que significa que o preceito só remete para fundamentos de anulação que carecem de alegação pelas partes. E isso apesar de pelo menos a subal. i) da al. b) ser um caso evidente de incompetência e ser de conhecimento oficioso. Essa diferença só parece justificar-se se as partes perderem o direito de invocar os fundamentos que carecem de alegação pelas partes.
+
+Em minha opinião, a maior estabilização da instância arbitral e a limitação a fundamentos que carecem de alegação pelas partes são argumentos que apontam, a meu ver decisivamente, para a natureza de ónus.
+
+* Slide 14
+
+Resulta do n.º 10 que o processo arbitral e o processo judicial de impugnação podem correr em paralelo.
+
+A lógica é simples. Visa-se dissuadir a propositura de pedidos de anulação com intuitos meramente dilatórios. Não suspendendo obrigatoriamente o processo, a parte que intenta o pedido de anulação em princípio só o fará se estiver convencida da justeza da sua posição ou, pelo menos, da probabilidade elevada ou razoável de obter vencimento.
+
+Em contraponto, porém, assinala-se que o tribunal arbitral tem o poder discricionário de suspender a instância e sobre ele (e as partes) recaí uma ”espada” bem afiada: caso o tribunal estadual declare a incompetência do tribunal arbitral mediante decisão que transite em julgado, o processo arbitral cessa, se não tiver ainda sido proferida a sentença arbitral; caso já tenha sido proferida, ela deixa de produzir os seus efeitos. O risco de a decisão arbitral ficar sem efeitos, deitando por terra os gastos que as partes suportaram com o financiamento da atividade do tribunal arbitral é (bastante) significativo. O que significa que não é incomum as partes acordarem numa suspensão do processo.
+
+* Slide 15
+
+O efeito negativo do princípio da competência da competência consiste, basicamente, numa alocação ou distribuição dessa competência pelos tribunais arbitrais e ou judiciais. Como já vimos antes, na LAV portuguesa a matéria é regida no artigo 5.º.
+
+A primeira grande consequência do efeito negativo, tal como consagrado em Portugal, é a de que, em regra, os tribunais arbitrais têm prioridade para decidir sobre a sua competência. Há várias razões que justificam esta solução: a primeira é a de que assim se minimiza o risco de táticas dilatórias; fortemente ligada com esta está a ideia de que os tribunais arbitrais serão em princípio os tribunais melhor colocados para julgar estas questões, pois são aqueles que estão mais próximos das questões jurídicas. Por fim permite centralizar o contencioso nos tribunais arbitrais (pelo menos, no início).
+
+* Slide 16
+
+Subjacente à ideia de prioridade dos tribunais arbitrais, está a excecionalidade de os tribunais judiciais puderem, em 1.ª instância, decidir sobre a competência dos tribunais arbitrais. A ideia de que só em casos manifestos se pode negar uma decisão de absolvição do réu da instância por preterição de tribunal arbitral é próxima do regime francês, que é aquele que consagra o efeito negativo de modo mais intenso. A ideia é que apenas os casos em que é incontroverso, após um exame sumário, que a convenção de arbitragem é nula, ineficaz e ou inexequível o princípio de celeridade se pode sobrepor à regra de prioridade dos tribunais arbitrais.
+
+* Slide 17
+
+Uma nota para deixar conta desta análise do STJ. Diria, no nosso contexto, que dificilmente uma situação de insuficiência económica superveniente poderá ser vista como um caso de manifesta inexequibilidade da convenção de arbitragem.
+
+* Slide 18
+
+Como corolário do efeito negativo e da prioridade dada aos tribunais arbitrais, o artigo 5.º, n.º 4, esclarece que estão proibidas entre nos as denominadas anti-arbitration injunction e também não é possível intentar uma qualquer ação declarativa que visa transferir para os tribunais judiciais aquilo que é, em primeira linha, uma competência dos tribunais arbitrais.
+
+* Slide 19
+
+Uma questão que, a meu ver, se encontra resolvida na nossa ordem jurídica é a de saber se as partes podem, por acordo, nomeadamente na convenção de arbitragem, prescindir do controlo estadual da competência do tribunal do arbitral. Dito de outra forma, podem, por acordo, as partes intensificarem o efeito negativo da competência da competência estabelecendo que as questões reativas à competência do tribunal arbitral só podem ser decididas por este?
+
+A resposta, dúbia em vários países que se inspiraram na Lei Modelo, porque esta não aborda expressamente o problema, encontra-se, a meu ver, resolvida: o artigo 46.º/5 estabelece o princípio de que o direito de requerer a anulação da sentença arbitral é irrenunciável, logo o acordo não é válido
+
+* Slide 20
+
+Em jeito de síntese, acho particularmente ilustrativa esta afirmação do nosso Supremo Tribunal de Justiça.
+
+A nossa lei – tal como a esmagadora maioria das restantes – atribui aos árbitros a competência para decidirem da sua competência. Não o faz, porém, em termos absolutos. Procurou um determinado equilíbrio, que resultou na consagração do efeito positiva e numa consagração atenuada do efeito negativo da competência da competência.
+
+Os árbitros decidem em 1.ª instância, porque, em certa medida, isso é imposto pela defesa da própria arbitragem. Mas não são os únicos decisores, até porque eles são, em certa medida, parte interessada, pois a remuneração dos árbitros é normalmente superior quando julgam o litígio do que quando se consideram incompetentes para o julgar. Assim, as partes têm sempre a possibilidade de sindicar essa 1.ª decisão, recorrendo aos tribunais judiciais através da impugnação da decisão. Este serão os decisores últimos.
+
+
+* Slide final
